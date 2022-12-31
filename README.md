@@ -1,3 +1,3 @@
-# a simple example project to show some design for a punishment embed.
+# A simple example on embed design.
 
-# to execute simple run npm i and place your bot token in the manifest.
+to execute simply run npm i and place your bot token in the manifest.
